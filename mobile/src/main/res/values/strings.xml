@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parkour-Link</string>
+    <string name="title_activity_link_map">linkMap</string>
+</resources>

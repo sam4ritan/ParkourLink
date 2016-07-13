@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:12:22-76
+application
+ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:14:5-42:19
+MERGED from [com.google.android.support:wearable:2.0.0-alpha2] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha2/AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.1/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:19:9-59
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:30:13-58
+activity#sam4ritan.github.io.parkour_link.linkMap
+ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:34:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0-alpha2] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha2/AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+		INJECTED from /home/user/code/parkour-link/wear/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:22:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/AndroidManifest.xml:21:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.2.1] /home/user/code/parkour-link/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/AndroidManifest.xml:24:8-31

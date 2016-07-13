@@ -1,0 +1,38 @@
+[
+    {
+        "outputFile": "/home/user/code/parkour-link/glass/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/home/user/code/parkour-link/glass/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 62,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/user/code/parkour-link/glass/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 69,
+                        "endOffset": 121
+                    }
+                }
+            }
+        ]
+    }
+]
