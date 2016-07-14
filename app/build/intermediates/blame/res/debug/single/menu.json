@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/code/ParkourLink/app/build/intermediates/res/merged/debug/menu/activity_home_drawer.xml",
+        "source": "/home/user/code/ParkourLink/app/src/main/res/menu/activity_home_drawer.xml"
+    },
+    {
+        "merged": "/home/user/code/ParkourLink/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/home/user/code/ParkourLink/app/src/main/res/menu/home.xml"
+    }
+]
