@@ -4,12 +4,12 @@
         "source": "/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/user/code/ParkourLink/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_edit_text_material.xml"
-    },
-    {
         "merged": "/home/user/code/ParkourLink/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/code/ParkourLink/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/home/user/code/ParkourLink/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
