@@ -1,2 +1,2 @@
-# parkour-link
+# ParkourLink
 An app for traceurs and freerunners for sharing locations and interesting tracks.
