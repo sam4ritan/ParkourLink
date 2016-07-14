@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.2.1_c496a7487bc2fa2c260a1ef0565feb036edbd561.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.2.1_a5765b4cea33130de699a3d3200ac824c5a011f9.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.2.1_d214b224bae676f2c173f79e150912e960ccda37.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.2.1_a3e990cefeffb79231c9040b6dbbb1012c26612b.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.2.1_e736e83cc8dfdc5f25526e2458d273c2f9910c68.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_e21fdc2a561bf09b4bcd52f441a08edce50e9dc2.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.2.1_cf432f9d26f5f68f44bdafd917bebc81ab561fdf.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.2.1_4a163e9e81c88b94faea90a913e8ca144d4122a2.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.2.1_deaf81cadf76323c08570dbf89adcaff303e2a72.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.2.1_9de4ad58c1742c4ff571fc4a09252edf83cda6af.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.2.1_610d6bd142f4b13e3e24a85e760bfb6ff9672380.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.2.1_68ba3021c507cf10473d1eba43548a2599c61e77.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.2.1_727a10a706fe73e64c6a00532cac3f456f1b6fa0.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.2.1_f43fc8abfbab0e136638582e403a01b2c54f4955.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.2.1_dcaa3c40cbb7d10a21ec15f87f3b30cbdead11e4.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.2.1_e8b6ef256fabdd11aa62d1a9088fe7e3ea350b72.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.1_6c838699373f61a8fce71597501f189dcfa97fe0.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_1493a6f2262ff816b6d269e007e7975d896fbb3b.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.2.1_387ba4f09e6f8771ff36de4a73065b8f49a2d5a4.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.2.1_2c298cfd5ce3d7fd1636f72158af283c22e7a2a0.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.2.1_7012480f234b8a63908d9a13458da5566f172940.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.2.1_bae3579dbe799afb2315b57d3728b5ac11aa0514.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_0fb4748c675df3fc3446220ccbfcb0110606f5a9.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.2.1_f8f816285d68bf627e79de5bc3e03e57b3f82d85.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.2.1_4285741a8353b24268ff265b881fa1f368f603c3.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.2.1_82b474d8d7c180301b57de18803024bbb9605951.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_0e760de40e6ce5134dfe0df6a14144396677497a.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.2.1_aaa1a3e9c96f9bd8b195c06231e1c85df49b4cc6.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_bf82a679a268af01b83f5b4595140263db54ae64.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.2.1_7830f1fa889bdb4c55e2305759acd9f6c9423dd4.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.2.1_504b477cb9822ed483738d3723e8c739e6670bd4.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.2.1_0980946727255d90d4602455c334c3f8677e51b5.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.2.1_f23d55d4449bedf1168f3c4523bccc11f24603b4.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.2.1_dd674828e9b82a7f6d88f9f0f7e69cd46254e58a.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.2.1_ee75512a43def9ea674ef6b2619ba68a2742ee13.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.2.1_b1c44472c7944a2054f700d11d83de53200a6a35.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.2.1_4d8715f3de340f60044cf5bf1ea8c5b288955a5b.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.2.1_3794fbc6da6eb0df7fbd6a5106ec361b1ef886fc.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.2.1_f8da7489e1c0468904440cd45922aadde44a46ad.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_e6f0f19b186eae1e3cd1cfa45bc2233569acd50c.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-contextmanager-9.2.1_ad03ba4bce3711942bd959fabe7faa336a154a56.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_4785181a233a2ab68d19f7a8915d1533ef146700.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.2.1_7b7f858fa1b044ff5dadd393ce65931a25534141.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.2.1_489fe749dc181c4a0bc3fc03cd332f1f35137035.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.2.1_1763bbd64f4195880cb4f3de10becc99dbb4ea3b.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.2.1_8f73b5f5f1a31d725f45fae8245f23d499a3b6a5.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.2.1_8416c61752fb7f6dfece3564fdb91651438e71f3.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.2.1_6011c08a0b0a07c279c5ec29908f9398e670992d.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.2.1_07d60f547bb01fa507d6c90844937842f6744bb4.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.2.1_d80fb1299efc38f7fbeeb280184edab20ccac2fa.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_9a65d39f05a415846e58f2438fd0285ae845166b.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.2.1_2c569b2c51780550a9143502cf227b43232addb6.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_6840c82061b78b67660c616b53036f4b0ac4af1c.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.1_cd97e416d772ea3ff76254208b777680c53f3798.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_f8732b084171318d3d7be42b371ba3ae9c48e8bf.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.2.1_ce44f30c32b74dc57acf40dcb4a94a515da3a04b.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.2.1_be13c0cfe331c2d739a1826f755c12ba051b3c36.jar" />
+    </item>
+    <item
+        jar="/home/user/code/ParkourLink/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/home/user/code/ParkourLink/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.2.1_553844a225283674a6bd9dcf71348fa3dbb81e87.jar" />
+    </item>
+
+</items>
